@@ -1,0 +1,14 @@
+.heading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* espaçamento */
+    gap: 2.4rem;
+}
+
+.darkMode {
+    color: orange;
+}
+.lightMode {
+    color: var(--text-default);
+}
